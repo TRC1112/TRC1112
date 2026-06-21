@@ -8,7 +8,7 @@ I'm an Electrical Engineer finishing my Masters in Engineering Management next w
 
 ### Projects
 
-**Ultimate Frisbee Assosiation PLayer Archetypes Dashboard**
+**Ultimate Frisbee Assosiation Player Archetypes Dashboard**
 Web-scraped and cleaned the UFA season statistics from the 2024 and 2025 regular seasons to build an interactive scouting report, identifying the stats that most contribute to player and team success
 <img width="859" height="614" alt="image" src="https://github.com/user-attachments/assets/7a6ef002-4397-4442-96ed-04f8619495b7" />
 <img width="872" height="841" alt="image" src="https://github.com/user-attachments/assets/99a49f28-7fe8-4e97-a104-ced532e2abb7" />
@@ -22,6 +22,7 @@ Designed a private application riffing off of "ShowReady" for Florida Polytechni
 
 <img width="1918" height="960" alt="DialogyeReady" src="https://github.com/user-attachments/assets/513c2916-3068-45cc-9497-bc5439dd57c7" />
 
-### Linked-In
-www.linkedin.com/in/tyler-culberson22
+### Contact Me!
+**Email** : culbert1112@gmail.com
+**Linked In** : www.linkedin.com/in/tyler-culberson22
 
