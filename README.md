@@ -23,6 +23,8 @@ Designed a private application riffing off of "ShowReady" for Florida Polytechni
 <img width="1918" height="960" alt="DialogyeReady" src="https://github.com/user-attachments/assets/513c2916-3068-45cc-9497-bc5439dd57c7" />
 
 ### Contact Me!
+
 **Email** : culbert1112@gmail.com
+
 **Linked In** : www.linkedin.com/in/tyler-culberson22
 
