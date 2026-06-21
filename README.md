@@ -10,6 +10,9 @@ I'm an Electrical Engineer finishing my Masters in Engineering Management next w
 
 **Ultimate Frisbee Assosiation PLayer Archetypes Dashboard**
 Web-scraped and cleaned the UFA season statistics from the 2024 and 2025 regular seasons to build an interactive scouting report, identifying the stats that most contribute to player and team success
+<img width="859" height="614" alt="image" src="https://github.com/user-attachments/assets/7a6ef002-4397-4442-96ed-04f8619495b7" />
+<img width="872" height="841" alt="image" src="https://github.com/user-attachments/assets/99a49f28-7fe8-4e97-a104-ced532e2abb7" />
+
 
 **Ultra-Low-Power handheld GPS and Radio Device Prototyping**
 Prototyping handheld, ultra-lowpower, radio and GPS capable device for use by law enforcement, military, or disaster scenarios. The device would be similar in form factor to an Amazon Kindle with an E-ink display. The final deliverable would have offline land nav maps, topos, and hillshades paired with Meshtastic for live GPS position data to similar devices and Motorola's AES 256 bit encryption. After downloading map data, the device is fully offline.
