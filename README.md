@@ -16,5 +16,6 @@ Prototyping handheld, ultra-lowpower, radio and GPS capable device for use by la
 
 **Dialogue Ready Application**
 Designed a private application riffing off of "ShowReady" for Florida Polytechnic University's production of the Spongebob Squarepants Musical where I recorded all spoken lines for all characters and created tracks for each scene. All parts were mutable and soloable by button press, as well as an interactive scene transcript.
+
 ![Dialogue Ready App - SpongeBob Musical](C:\Users\Tyler Culberson\Pictures\DialogueReady.JPG)
 
